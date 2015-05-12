@@ -1,6 +1,7 @@
 
 <?php
 //komentar1
+//komentar oleh teman
 
 //Diedit Teman
 
