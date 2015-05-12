@@ -1,3 +1,7 @@
+<?
+	echo "edit oleh k3513054";
+	echo "kotak transformer";
+?>
 <?php
 //komentar1
 //Diedit Teman
