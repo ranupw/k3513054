@@ -2,8 +2,6 @@
 <?php
 //komentar1
 
-//komentar2
-
 //Diedit Teman
 
 /*
