@@ -1,6 +1,7 @@
 <?
 	echo "edit oleh k3513054";
 	echo "hapus oleh k3513054";
+	echo "diedit oleh K3513062";
 ?>
 <?php
 //komentar1
